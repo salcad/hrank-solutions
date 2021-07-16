@@ -1,2 +1,2 @@
 # hrank-solutions
-test-salcad
+test-salamun
